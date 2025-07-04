@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "0c275548b49d7260",
+    "type": "split",
+    "children": [
+      {
+        "id": "91855088f6e02177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d84aedd55a2ed07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "서울시 구별 CCTV 현황 분석 보고서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "서울시 구별 CCTV 현황 분석 보고서"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2131faff52574569",
+    "type": "split",
+    "children": [
+      {
+        "id": "df9ac4fcabe2d7d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b272c1ad09e4c8a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c8dba40305f321f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "81b1e0e242d10fa7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1b6facba0826106",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b729ee7e9944bf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73ba357ebcef4f05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "서울시 구별 CCTV 현황 분석 보고서.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "서울시 구별 CCTV 현황 분석 보고서 의 백링크"
+            }
+          },
+          {
+            "id": "a36edabaace0c6ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "서울시 구별 CCTV 현황 분석 보고서.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "서울시 구별 CCTV 현황 분석 보고서 의 나가는 링크"
+            }
+          },
+          {
+            "id": "e780a651bd5f79ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "b1e1b3d9887b346d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "서울시 구별 CCTV 현황 분석 보고서.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "서울시 구별 CCTV 현황 분석 보고서 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "7d84aedd55a2ed07",
+  "lastOpenFiles": []
+}
